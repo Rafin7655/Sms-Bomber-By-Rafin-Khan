@@ -5,7 +5,7 @@ def get_hashed_text(text:str):
 
 while 1:
    key = getpass.getpass('[+] Enter key: ')
-   if get_hashed_text(key) != '967b3f776748eb3690b605a1f06d243a5963951772cf6ecae557bced29fe54e2':
+   if get_hashed_text(key) != '477a4494a9b8bd2e6ad0eeeb6ecd6aa7d16a5b5f161c954d76b96a7eb311325c':
       sys.stderr,write(f'your given key "{key}" is incorrect.\n')
    
    else:
