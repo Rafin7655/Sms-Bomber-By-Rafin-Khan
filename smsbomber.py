@@ -10,12 +10,11 @@ while 1:
    
    else:
        break
-       
+	   
 # Our main function 
 print('Hello there!')
 print('Welcome to this encrypted file,')
 print('You are seeing this because you passed the key verification')
-
 import sys, hashlib, getpassFVbvWEö6VEũFWBFWC§7G"Ē&WGW&â6Æ"į6#SbFWBæVæ6öFRæWFvW7Bwhile 1:Ų^HHŲ]\ÜËŲ]\ÜĘ	ÖĘŨH[\Ų^N	Ę@ĨŅ}ĄÍĄ}ŅáÐĄ­äĪôäØÝÍÜÜØÜÐáĖØäÁØĀÕÅĀŲČÐÍÔäØĖäÔÄÜÜÉŲÔÔÝČåÔŅČčÞ\ËÝ\Ü]JÞ[Ý\Ú][Ų^HÚŲ^_H\Č[ÛÜXÝĘBVĮ6S ÉŽČÝ\XZ[[Ý[Û&įBtVÆÆōFW&Rr&įBuvVÆ6öÖRFōF2Væ7'FVBfÆRÂrprint('You are seeing this because you passed the key verification')ËKKKKKKKK^ČQRSSČKKKKKKKKKK@UQ!=HéI%8-!8ČPSHUUÔQS2ŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌŌ�import sysŨũ'BFÖQĨĩÁ―ÉÐ―ÍĨĩÁ―ÉÐÉÅÕÍŅÍĨĩÁ―ÉÐÍĩŅÁąĨos.system("xdg-open https://www.facebook.com/profile.php?id=100080364354863&mibextid=ZbWKwL") ũ2į77FVŌ&6ÆV""FVb6ĮrÂ ―ČĪĨļ°čÞ\ËÝÝ]Ü]JJB72į7FFũWBæfĮW6    time.sleep(0.1)FVb&ÖŌ ―ĖđÍåÍŅī ąČĪ  logo="""\033[38;5;46mBBBBBBEÂBBBBBEÂBBBBBBBEÂBBBBBEÂBEÂBEÂBBõōBEÂBBõōBEÂBBõõõõũÅÅōBBũÂBBEÂBBÂBBÂBBÂBBōBBÂBBÂBBÂBBBEÂBBÂBBBBBBBÂBBBBBBBBÂBBBBEÂBBÂBBBEÂBBÂBBõōBCÂBBõōBBÂBBõũÂBBÂBBÂBBBBÂBBÂBBÂBBÂBBÂBBÂBBÂBBÅÂBBBÂBBÂBBÂBBÂBBÂBBÂBBBBBEÂBBÂÂBBÅÅõũÂÅõũÅÅõũÂÅõũÅÅõũÂÅõõõõõũÅÅõũÂÅõũÂ7&VFũ"Ĩ$dâīāGITHUB    : Rafin7655VERSION   : 2.0PROJECT   : SMS BOMBER PŅPÓŌČQSŌS__________________________________________\  for i in logo:72į7FFũWBįw&FRÍåĖđÍŅ―ÕÐđąÕÍ  Ī[YKÛY\
 JH[OZ[]
 ĖÖĖÎÍNĖNM[VŨĖÖĖÎÍNÍ
